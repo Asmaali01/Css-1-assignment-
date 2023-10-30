@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    height: 80px; 
+    line-height: 80px;
+    padding: 0px 100px;position: fixed;
+    background-image: linear-gradient(yellow,seagreen);
+z-index: 9999; 
+top: 0;}
+.logo p{
+    font-size: 25px;
+    font-weight: bold;
+    float: left;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.10px;
+    cursor: pointer;
+
+}
+.logo ul{float: right
+
+}
+.logo li{
+    display: inline-block;
+    list-style: none;
+}
+.logo li{
+    font-size: 10px;
+    text-transform: uppercase;
+    padding: 4px 5px;
+    color: black;
+    text-decoration: none;
+    font-size: 10px;
+    
+}
+.logo li a:hover{
+    color: rgb(236, 28, 28);
+    transition: all 0.4s ease 0s;
+}
+
+
+
+table{
+    width: 80%;
+    height: 245px;
+    border: 1;
+    padding:0%;
+    float: right;
+    margin-top: 10px;
+}
+    
+    
+
+
+th{
+    background-color: green;
+
+}
+ h1 {
+    color: palevioletred;
+    padding: 100px;
+    padding-bottom: 0px;
+    line-height: 30px;
+    border: 1;
+    width: 100%;
+    height: 100px;
+    bottom: -300px;
+}
+.lg td{
+    background-color: darkgray;}
+
+.btn1{
+    background-color: darkgreen;
+}
+.btn2{
+    background-color: red;
+}
+td{
+    background-color: rgb(gray, rgb(177, 107, 107), darkgray)}
+    .design td{
+        background-color: darkcyan;
+    }
+    .gr td{
+        background-color: palegreen
+    }
+.foot{
+    width: 100%;
+    height: 100px;
+    border: 1;
+    background-color: darkgray;
+    position: relative;
+    bottom: -390px;
+    
+}
+.info{
+    background-color: seagreen;
+    color: wheat;
+    float: left;
+    width: 20%;
+    height: 333px;
+    margin-bottom: -300px;
+    margin-top: 0px;
+
+    
+}
+
+
